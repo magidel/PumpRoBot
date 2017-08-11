@@ -7,7 +7,8 @@ The Bot is written in Python 2.7<br><br>
 
 Versions
 
-1st:
+1st
+---
 <ul>
 <li>sim<ul>
 <li>simple replay to command by text</li>
@@ -15,14 +16,16 @@ Versions
 <li>no password required</li>
 <ul>
 
-2nd:
+2nd
+---
 <ul>
 <li>simple replay to command by text</li>
 <li>no inline keyboard</li>
 <li>password required</li>
 <ul>
 
-3rd:
+3rd
+---
 <ul>
 <li>physic wired on GPIO Raspberry PI and relay with send command to relay</li>
 <li>no inline keyboard</li>
