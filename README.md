@@ -10,7 +10,6 @@ Versions
 1st
 ---
 <ul>
-<li>sim<ul>
 <li>simple replay to command by text</li>
 <li>inline keyboard</li>
 <li>no password required</li>
