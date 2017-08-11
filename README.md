@@ -14,7 +14,7 @@ Versions
 <li>simple replay to command by text</li>
 <li>inline keyboard</li>
 <li>no password required</li>
-<ul>
+</ul>
 
 2nd
 ---
@@ -22,7 +22,7 @@ Versions
 <li>simple replay to command by text</li>
 <li>no inline keyboard</li>
 <li>password required</li>
-<ul>
+</ul>
 
 3rd
 ---
