@@ -1,4 +1,4 @@
-PumpRoBot
+PumpRoBot (DEPRECATED)
 ====
 
 Hello! I'm @pumprobot, a Telegram Bot.<br>
